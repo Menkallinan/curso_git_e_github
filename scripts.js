@@ -6,6 +6,7 @@ var imag = window.document.querySelector('img#imagem');
 var escrever_div1 = document.querySelector('div#div1');
 var escrever_div2 = document.querySelector('div#div2');
 escrever_div1.innerHTML += `${hora} horas e ${minuto} minutos.`;
+//vou mudar aqui para usar com o git, hahahaha. VOu só comentar mesmo
 
 if(hora < 12 && hora >= 6){
     imag.src = 'manha.png';
