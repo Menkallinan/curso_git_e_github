@@ -2,3 +2,7 @@
 
 para_testar_git
 
+# ignorando arquivos de uma extensão predefinicda
+#*.png
+
+#docs/
